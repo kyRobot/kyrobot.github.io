@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            kyRobot
+tagline:          'Kyle'
+description:      'Musings of Software Engineering, App developing, borderline nerd'
+url:              www.kyrobot.com
+baseurl:          /
+
+author:
+  name:           'Kyle Milner'
+  url:            https://twitter.com/kyrobot
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/kyRobot
