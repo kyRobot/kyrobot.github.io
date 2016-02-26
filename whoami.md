@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: whoami
+sidebar: true
 ---
 
-#About Kyle
 
 This page will eventually include some words that describe me
 

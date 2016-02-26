@@ -1,21 +1,23 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+permalink:        :title
+#relative_permalinks: true
 
 # Setup
 title:            kyRobot
 tagline:          'Kyle'
-description:      'Musings of Software Engineering, App developing, borderline nerd'
-url:              www.kyrobot.com
+description:      'Musings of a Software Engineering, App developing, borderline nerd'
+url:              http://www.kyrobot.com
 baseurl:          /
 
 author:
-  name:           'Kyle Milner'
-  url:            https://twitter.com/kyrobot
+  name:     "Kyle Milner"
+  github:   "kyrobot"
+  twitter:  "fteem"
+  linkedin: "kylemilner"
 
 paginate:         5
 
@@ -24,3 +26,6 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/kyRobot
+
+gems:
+  - jekyll-paginate
