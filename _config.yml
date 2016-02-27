@@ -15,9 +15,10 @@ baseurl:          /
 
 author:
   name:     "Kyle Milner"
-  github:   "kyrobot"
-  twitter:  "fteem"
+  github:   "kyRobot"
+  twitter:  "kyRobot"
   linkedin: "kylemilner"
+  medium:   "@kyRobot"
 
 paginate:         5
 
